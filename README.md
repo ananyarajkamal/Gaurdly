@@ -125,17 +125,6 @@ Gaurdly/
 
 While Gaurdly provides sophisticated URL analysis, no security tool is 100% perfect. Always exercise caution when clicking unfamiliar links, and use additional security measures when handling sensitive information.
 
-## 📄 License
-
-This project is provided for educational and research purposes. Please check the license file for specific usage terms.
-
-## 🤝 Contributing
-
-Contributions are welcome! Please feel free to submit pull requests or open issues for bugs and feature requests.
-
-## 📞 Support
-
-For questions or support, please refer to the Help Center section within the application or open an issue in the repository.
 
 ---
 
