@@ -139,4 +139,4 @@ For questions or support, please refer to the Help Center section within the app
 
 ---
 
-**Built with ❤️ using Streamlit and Machine Learning**
+**Built with using Streamlit and Machine Learning**
